@@ -4,13 +4,11 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hey 👋{}!!</b>
+<i>ഞാൻ ഒരു 𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧 ബോട്ട് ആണ്, എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ നോക്കി സമയം കളയണ്ട, എന്നെ <b>𝙼𝚊𝚜𝚝𝚎𝚛 𝙿𝚛𝚒𝚗𝚝 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚎𝚛</b> ഗ്രൂപ്പിൽ മാത്രമേ ആഡ് ചെയ്യാൻ കഴിയൂ...!!!
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
+എന്തായാലും വന്ന സ്ഥിതിക്ക് താഴെ കാണുന്ന ഗ്രൂപ്പിലും ചാനലിലും ജോയിൻ ചെയ്തോളൂ..😉
+@MPD-007 https://t.me/joinchat/KsvwicWG7F44OTg1
 </i>"""    
     
     HELP_TEXT = """
@@ -43,12 +41,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/JS">Jithins7</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
